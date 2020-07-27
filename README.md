@@ -8,7 +8,7 @@
 
 👻 A fun project with ReactJS and styled components, using the Breaking Bad API.
 
-link
+https://elegant-snyder-29775c.netlify.app/
 
 - **Contributors:**
 
