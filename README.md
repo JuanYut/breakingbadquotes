@@ -1,7 +1,7 @@
 ## Natours
 
 <p align="center">
-  <img src="/images/breakingbad.png" width="100"/>
+  <img src="/src/images/breakingbad.png" width="100"/>
  </p>
 
 🧪 "Breaking Bad Quotes"
